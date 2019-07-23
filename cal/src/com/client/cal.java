@@ -27,6 +27,7 @@ public class cal implements EntryPoint {
 	public void onModuleLoad() {
 		//String s1="",s2="";
 		//int x=0;
+		Button b2[]=new Button[10];
 		Button b[]=new Button[10];
 		TextBox t1=new TextBox();
 		Button b1=new Button("+");
